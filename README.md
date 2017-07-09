@@ -3,9 +3,9 @@
 Movie applicaiton using angular 1.5.x, gulp and bootstrap 3.
 
 ## Getting Started
-### Clone sogeti-movie-application
+### Clone movie-app
 
-git clone https://github.com/martinbilek/angular-seed.git
+git clone https://github.com/raghavanvj/movie-app.git
 cd angular-seed
 
 ### Install Dependencies
